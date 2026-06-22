@@ -196,5 +196,4 @@ Future Enhancements
 Author
 
 Shivam Vishwakarma
-
-Backend Developer | Java | Spring Boot | Spring Security | REST APIs | MySQL
+Java Backend Developer
